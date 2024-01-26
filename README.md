@@ -1,4 +1,4 @@
-# CSE-211 TERM PROJECT BUGRA BAYGUL
+# BUGRA BAYGUL TETRIS
 
 ## How to Run This Project?
 ````
@@ -6,7 +6,7 @@ MacOS AARCH64 M2 or higher is highly recommended for this project.
 User needs to write the following Makefile commands for different systems.
 
     make mac
-    make linux
+    
 ````
 ## I also put the windows sfml library and include in the project.
 ## I use macOS AArch64 M2 and on my computer that code run without any problem when I write "make mac" on the terminal.
